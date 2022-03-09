@@ -13,7 +13,12 @@
     <form id="form1" runat="server">
         <div class="header">Header</div>
         <div class="nav">Navigation</div>
-        <div class="aside">Aside</div>
+
+        <div class="aside">Aside
+
+            <p>Anything</p>
+        </div>
+        
 
         
         <div>
@@ -22,6 +27,7 @@
             </asp:ContentPlaceHolder>
         </div>
         <div class="footer">Footer</div>
+
     </form>
 </body>
 </html>
